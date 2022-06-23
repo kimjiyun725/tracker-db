@@ -28,6 +28,7 @@ This technical exercise uses React.js, Flask, and Python sqlite3.
 * `flask run`
 
 ## Launch up the local React.js App
+link: https://github.com/kimjiyun725/tracker
 1. Move into the `tracker` directory:
 * `cd ./tracker`
 
