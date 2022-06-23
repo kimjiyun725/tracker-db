@@ -35,5 +35,5 @@ link: https://github.com/kimjiyun725/tracker
 3. Run it:
 * `npm start`
 
-##Disclaimer
+## Disclaimer
 Due to time restraints, when inserting new data through the UI, it requires two clicks for the data to meet the endpoint.
